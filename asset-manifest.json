@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Machine_game/static/css/main.33aca2f4.css",
+    "main.js": "/Machine_game/static/js/main.61a89488.js",
+    "index.html": "/Machine_game/index.html",
+    "main.33aca2f4.css.map": "/Machine_game/static/css/main.33aca2f4.css.map",
+    "main.61a89488.js.map": "/Machine_game/static/js/main.61a89488.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33aca2f4.css",
+    "static/js/main.61a89488.js"
+  ]
+}
